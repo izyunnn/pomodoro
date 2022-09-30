@@ -8,9 +8,20 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^4.3.1",
+    "chart.js": "^3.9.1",
     "core-js": "^3.8.3",
+    "jquery": "^3.6.1",
+    "material-icons": "^1.11.11",
+    "node": "^14.4.0",
+    "npm": "^6.14.5",
+    "popper.js": "^1.16.1",
+    "svg-progress-bar": "^0.1.17",
     "vue": "^3.2.13",
+    "vue-chartjs": "^4.1.2",
     "vue-router": "^4.0.3",
+    "vue3-circle-progress": "^1.0.7",
     "vuex": "^4.0.0"
   },
   "devDependencies": {
